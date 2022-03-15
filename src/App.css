@@ -47,7 +47,7 @@ a {
     rgba(4, 12, 24, 1) 100%
   );
 }
-.gradient_text {
+.gradient_text{
   background: var(--gradient-text);
   background-clip: text;
   -webkit-background-clip: text;
